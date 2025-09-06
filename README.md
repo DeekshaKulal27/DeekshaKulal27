@@ -1,5 +1,5 @@
 # 💫 About Me:
-✏ Focused on finishing my final-year studies and exploring data analytics<br><br>🤝 Open to collaborate on student research, hackathons, or beginner data projects<br><br>🤲 Looking for help with sharpening Python and SQL skills<br><br>🌱 Learning machine learning, statistics, and real-world problem solving<br><br>💬 Ask me about NCC life, study tips, and balancing academics<br><br>⚡ Fun fact I enjoy puzzles, tech trends, and creative problem-solving
+✏ Focused on finishing my final-year studies and exploring data analytics<br>🤝 Open to collaborate on student research, hackathons, or beginner data projects<br>🤲 Looking for help with sharpening Python and SQL skills<br>🌱 Learning machine learning, statistics, and real-world problem solving<br>💬 Ask me about NCC life, study tips, and balancing academics<br>⚡ Fun fact I enjoy puzzles, tech trends, and creative problem-solving
 
 
 ## 🌐 Socials:
